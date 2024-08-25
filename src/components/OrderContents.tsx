@@ -1,5 +1,5 @@
 import { Dispatch } from 'react'
-import { MenuItem, OrderItem } from '../types';
+import { OrderItem } from '../types';
 import { formatCurrency } from '../helpers';
 import { OrderActions } from '../reducer/order-reducer';
 
